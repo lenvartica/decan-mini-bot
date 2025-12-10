@@ -1,85 +1,92 @@
-```markdown
 <div align="center">
 
-# <span style="color:#00ff41; text-shadow: 0 0 10px #00ff41, 0 0 20px #00ff41, 0 0 40px #00ff41, 0 0 60px #00ff41; font-family: 'Orbitron', sans-serif; font-size: 3.8em; letter-spacing: 4px;">DECAN MINI BOT</span>
+# <span style="color:#00ff41; text-shadow:0 0 10px #00ff41,0 0 25px #00ff41,0 0 50px #00ff41; font-family:'Orbitron',sans-serif; font-size:4em; letter-spacing:5px;">
+🚀 DECAN MINI BOT 🚀
+</span>
 
-<span style="color:#ff00ff; font-size:1.5em; text-shadow: 0 0 15px #ff00ff, 0 0 30px #ff00ff;">▸ Quantum-Powered • Decentralized • Neon-Infused ◂</span>
+<span style="color:#ff00ff; font-size:1.4em; text-shadow:0 0 15px #ff00ff,0 0 30px #ff00ff;">
+▸ Quantum-Powered • Neon-Engineered • Next-Gen Automation ◂
+</span>
 
-<br/>
+<br/><br/>
 
-![Decan Mini Bot](https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=180&section=header&text=DECAN%20MINI%20BOT&fontSize=60&fontColor=000000&animation=twinkling)
+![Banner](https://capsule-render.vercel.app/api?type=waving&height=200&color=00ff41&text=DEVELOPING%20THE%20FUTURE&fontSize=50&fontColor=000000&animation=twinkling&reversal=true)
 
-[![Stars](https://img.shields.io/github/stars/lenvartica/decan-mini-bot?style=for-the-badge&color=00ff41&labelColor=0d001a)](https://github.com/lenvartica/decan-mini-bot)
-[![Forks](https://img.shields.io/github/forks/lenvartica/decan-mini-bot?style=for-the-badge&color=ff00ff&labelColor=0d001a)](https://github.com/lenvartica/decan-mini-bot)
-[![License](https://img.shields.io/github/license/lenvartica/decan-mini-bot?style=for-the-badge&color=00ffff&labelColor=0d001a)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/lenvartica/decan-mini-bot?style=for-the-badge&color=00ff41&labelColor=05000a)]()
+[![Forks](https://img.shields.io/github/forks/lenvartica/decan-mini-bot?style=for-the-badge&color=ff00ff&labelColor=05000a)]()
+[![License](https://img.shields.io/github/license/lenvartica/decan-mini-bot?style=for-the-badge&color=00ffff&labelColor=05000a)]()
 
 </div>
 
+---
+
 <div align="center">
 
-```html
-<pre style="background: linear-gradient(135deg, #0f0f0f, #1a0033); color:#00ff41; padding:30px; border-radius:15px; 
-border: 2px solid #00ff41; box-shadow: 0 0 30px #00ff41, 0 0 60px #ff00ff; font-family: 'Courier New', monospace; 
-font-size:16px; max-width:900px; margin:40px auto; text-align:left; overflow:hidden;">
-<span style="color:#ff00ff;">╔═══════════════════════════════════════════════════════════╗</span>
-<span style="color:#00ffff;">   DECAN MINI BOT  •  v9.9.9  •  NEON CORE ACTIVE</span>
-<span style="color:#ff00ff;">╚═══════════════════════════════════════════════════════════╝</span>
 
-<span style="color:#00ff41;">┌──(</span><span style="color:#00ffff;">decan㉿cyberpunk</span><span style="color:#00ff41;">)-[</span><span style="color:#ff00ff;">~</span><span style="color:#00ff41;">]</span>
-└─$ <span style="color:#00ffff;">decan --activate --theme=neon-ultra</span>
-<span style="color:#00ff41;">[+]</span> Quantum core initialized........ <span style="color:#00ff41;">OK</span>
-<span style="color:#00ff41;">[+]</span> Neon matrix online............... <span style="color:#ff00ff;">GLOW</span>
-<span style="color:#00ff41;">[+]</span> Swarm sync complete.............. <span style="color:#00ffff;">127 nodes</span>
-<span style="color:#ff00ff;">▸ Ready. Welcome to the future.</span>
-</pre>
-```
+
+<div align="center"><span style="color:#00ff41; text-shadow:0 0 8px #00ff41,0 0 18px #00ff41; font-family:'Orbitron',sans-serif;">
+
+🚀 DECAN MINI BOT 🚀 </span>
+
+<span style="color:#ff00ff; font-size:1.3em; text-shadow:0 0 10px #ff00ff;">
+▸ Quantum-Powered • Neon-Infused • Hyper-Automated ◂
+</span><br/>
 
 </div>
+---
 
-## Features
+🔥 Terminal Boot Screen
 
-- **Neon Glow UI** with real-time CSS animations
-- **Decentralized P2P Network** (IPFS + libp2p)
-- **AI-Powered Mini Tasks** with swarm intelligence
-- **Quantum-Resistant Encryption**
-- **One-Command Deploy**
-- **8 Cyberpunk Themes** (neon-green, synthwave, matrix, etc.)
+╔══════════════════════════════════════════════════════════════════╗
+      DECAN MINI BOT • v10.0.1 • HYPER-NEON CORE ONLINE
+╚══════════════════════════════════════════════════════════════════╝
 
-## Quick Start
+┌──(decan㉿matrix)-[~/neon-core]
+└─$ decan --boot --quantum --theme "ultra-neon"
 
-```bash
-git clone https://github.com/username/decan-mini-bot.git
+[+] Activating photon engine............. OK  
+[+] Spinning cyber-matrix................ GLOW  
+[+] Linking swarm neural grid............ 128 nodes synced  
+▸ System Status: FUTURE READY ✔
+
+
+---
+
+⚡ Features
+
+✔ Quantum Fast Responses
+✔ Lightweight Neon Kernel
+✔ Hyper-Optimized WhatsApp Automation
+✔ Modular Commands + Auto-Sync
+✔ Perfect for Multi-Device Systems
+
+
+---
+
+🛠 Installation
+
+git clone https://github.com/lenvartica/decan-mini-bot
 cd decan-mini-bot
 npm install
-npm run neon:start
-```
+npm start
 
-## One-Liner Install
 
-```bash
-curl -fsSL https://decan.bot/install | bash -s -- --glow=maximum
-```
+---
 
-## Themes
+🧬 Live Status
 
-```js
-// config/neon.js
-module.exports = {
-  theme: "synthwave",
-  glow: "extreme",
-  particles: true,
-  quantumMode: true
-};
-```
+▰▰▰▰▰▰▰▰ 100% – DECAN MINI BOT FULLY OPERATIONAL
 
-<div align="center">
 
-### Live in 2077
+---
 
-<span style="color:#00ff41; font-size:2.2em; text-shadow: 0 0 20px #00ff41, 0 0 40px #ff00ff;">▞▞▞▞▞▞▞▞▞▞▞▞▞▞▞▞▞▞▞▞▞▞▞▞▞▞▞▞▞▞</span>
+💬 Contact
 
-<span style="color:#ff00ff; font-size:1.4em;">Built for the rebels of tomorrow.</span><br>
-<span style="color:#00ffff;">© 2025 Decan Labs • All rights neon.</span>
+Creator: Lenny
+Project: Decan Mini Bot
+Status: Future Tech In Motion
+💬 Contact
 
-</div>
-```
+Creator: Lenny  
+Project: Decan Mini Bot  
+Status: Future Tech In Motion
